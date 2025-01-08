@@ -1,0 +1,2 @@
+- name: Debug file presence
+  run: ls -la
