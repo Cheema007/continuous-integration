@@ -38,7 +38,7 @@ jobs:
         
     - name: Run python script (app.py)
       run: |
-        python app.py
+        app.py
 
     - name: Test with pytest
       run: |
